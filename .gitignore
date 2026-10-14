@@ -1,0 +1,13 @@
+/build/
+/out/
+*.obj
+*.o
+*.lib
+*.a
+*.exe
+*.pdb
+*.ilk
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
